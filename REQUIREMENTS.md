@@ -14,10 +14,10 @@ A visual mockup is provided for reference [here](./assessment-mockup.webm) - as 
 
 - Present the string "DISCOTECA" on the screen
 - Your component should take at least two properties
-  - `interval: number // time in ms`: which will determine the frequency each animation is triggered
-  - `duration: number`: how many intervals should occur before the timer will complete
+  - `interval: number // time in ms`: The number of ms which determines the frequency each animation frame is triggered and for one 'tick' of the timer to occur
+  - `duration: number`: how many 'ticks' should occur before the timer will complete
 - The border of the app window will represent a timer
-- While the timer ticks forward the border fills in clockwise, proportional to the time elapsed / duration
+- While the timer ticks forward the border fills in clockwise, proportional to the number of ticks / duration (percent completion)
 - After the duration determined by the prop `duration` has elasped, the border should be completely filled in
 - After the value of time determined by prop `interval` has elapsed, the border of the app will tick forward
 - With every tick of the timer
