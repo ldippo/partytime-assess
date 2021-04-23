@@ -1,3 +1,5 @@
+Below you will find the standard docs for `create-react-app`. Please reference the [requirements](./REQUIREMENTS.md) for instructions to this assessment.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
