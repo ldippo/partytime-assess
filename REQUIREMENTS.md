@@ -1,10 +1,8 @@
 # Assessment Requirements
 
-## Do not spend over 3 hours on this assessment.
+## Forward Notes
 
-## Please try to complete all the passing criteria
-
-## If you complete passing criteria in under 2 hours, please attempt one or more of the bonus tasks. I will assume the task took a full 3 hours in the absence of a bonus feature. It is allocate at most 1 hour to the bonus feature, it is acceptable to exceed 3 hours if you make it to the bonus.
+Do not spend over 3 hours on this assessment, not including the time it takes to review these requirements. Please try to complete all the passing criteria. If you complete passing criteria in under 2 hours, please attempt one or more of the bonus tasks. I will assume the task took a full 3 hours in the absence of a bonus feature. Try to allocate at most 1 hour to the bonus feature, it is acceptable to exceed 3 hours if you make it to the bonus.
 
 ## Purpose
 
@@ -42,13 +40,13 @@ A visual mockup is provided for reference [here](./assessment-mockup.webm) - as 
 
 ## Resources
 
-These are the colors used in the video mockup
-#4BBFE6
-#266CDD
-#2B20BC
-#FFCC33
-#A01CA3
-#FA1085
-#F30F58
-#F8A26D
+These are the colors used in the video mockup  
+#4BBFE6  
+#266CDD  
+#2B20BC  
+#FFCC33  
+#A01CA3  
+#FA1085  
+#F30F58  
+#F8A26D  
 #F3E479
